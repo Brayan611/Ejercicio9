@@ -1,0 +1,15 @@
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\bin\Debug\net6.0\Proyecto.exe
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\bin\Debug\net6.0\Proyecto.deps.json
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\bin\Debug\net6.0\Proyecto.runtimeconfig.json
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\bin\Debug\net6.0\Proyecto.dll
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\bin\Debug\net6.0\Proyecto.pdb
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.csproj.AssemblyReference.cache
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfoInputs.cache
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.AssemblyInfo.cs
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.dll
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\refint\Proyecto.dll
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.pdb
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\Proyecto.genruntimeconfig.cache
+C:\Users\ModuloPRO\Desktop\Brayan_Entornos\Ejercicio9\Proyecto\obj\Debug\net6.0\ref\Proyecto.dll
